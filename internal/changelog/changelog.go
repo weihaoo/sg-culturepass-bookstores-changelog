@@ -25,24 +25,21 @@ func FormatEntry(date time.Time, result *diff.Result, oldCount, newCount int) st
 	addedCount := len(result.Added)
 	changedCount := len(result.Changed)
 
-	// Outer collapsible section for the date
-	sb.WriteString(fmt.Sprintf("<details>\n<summary><strong>%s</strong></summary>\n\n", dateStr))
+	// Outer collapsible section for the date with total locations in summary
+	sb.WriteString(fmt.Sprintf("<details open>\n<summary><strong>%s</strong> (Total locations: %d → %d)</summary>\n\n", dateStr, oldCount, newCount))
 
-	// Total locations line
-	sb.WriteString(fmt.Sprintf("Total locations: %d → %d\n\n", oldCount, newCount))
-
-	// Added section (collapsible)
+	// Added section (pure HTML bullet with collapsible details)
 	if addedCount > 0 {
-		sb.WriteString(fmt.Sprintf("<details>\n<summary>Added (%d)</summary>\n\n", addedCount))
+		sb.WriteString(fmt.Sprintf("<ul><li><details><summary>Added (%d)</summary>\n\n", addedCount))
 		sb.WriteString(formatAddedTable(result.Added))
-		sb.WriteString("\n</details>\n\n")
+		sb.WriteString("\n</details></li></ul>\n\n")
 	}
 
-	// Changed section (collapsible)
+	// Changed section (pure HTML bullet with collapsible details)
 	if changedCount > 0 {
-		sb.WriteString(fmt.Sprintf("<details>\n<summary>Changed (%d)</summary>\n\n", changedCount))
+		sb.WriteString(fmt.Sprintf("<ul><li><details><summary>Changed (%d)</summary>\n\n", changedCount))
 		sb.WriteString(formatChangedTable(result.Changed))
-		sb.WriteString("\n</details>\n\n")
+		sb.WriteString("\n</details></li></ul>\n\n")
 	}
 
 	// Close outer details
@@ -127,16 +124,20 @@ func UpdateReadme(readmePath string, entry string) error {
 
 	contentStr := string(content)
 
-	// Find the changelog start marker
+	// Find the changelog start and end markers
 	startIdx := strings.Index(contentStr, ChangelogStartMarker)
 	if startIdx == -1 {
 		return fmt.Errorf("changelog start marker not found in README")
 	}
 
-	// Insert entry after the start marker
-	insertPos := startIdx + len(ChangelogStartMarker) + 1 // +1 for newline
+	endIdx := strings.Index(contentStr, ChangelogEndMarker)
+	if endIdx == -1 {
+		return fmt.Errorf("changelog end marker not found in README")
+	}
 
-	newContent := contentStr[:insertPos] + entry + contentStr[insertPos:]
+	// Replace content between markers (clear old content, insert new entry)
+	insertPos := startIdx + len(ChangelogStartMarker)
+	newContent := contentStr[:insertPos] + "\n" + entry + contentStr[endIdx:]
 
 	if err := os.WriteFile(readmePath, []byte(newContent), 0644); err != nil {
 		return fmt.Errorf("writing README: %w", err)

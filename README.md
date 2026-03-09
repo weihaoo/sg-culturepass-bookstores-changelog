@@ -5,13 +5,10 @@ This repository automatically tracks changes to bookstore locations participatin
 ## Changelog
 
 <!-- CHANGELOG_START -->
-<details>
-<summary><strong>2026-03-09</strong></summary>
+<details open>
+<summary><strong>2026-03-09</strong> (Total locations: 0 → 40)</summary>
 
-Total locations: 0 → 40
-
-<details>
-<summary>Added (40)</summary>
+<ul><li><details><summary>Added (40)</summary>
 
 | Name | Address | Postal Code |
 |------|---------|-------------|
@@ -56,7 +53,7 @@ Total locations: 0 → 40
 | Maha Yu Yi Story House 友谊故事屋 | Blk 231 Bain Street, #03-11, Bras Basah Complex | 180231 |
 | Maha Yu Yi Culture & Event Hall 友谊活动中心 | Blk 231 Bain Street, #02-15, Bras Basah Complex | 180231 |
 
-</details>
+</details></li></ul>
 
 </details>
 
