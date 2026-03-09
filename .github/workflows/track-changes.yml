@@ -1,0 +1,45 @@
+name: Track Bookstore Changes
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC (8:00 AM SGT)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allow manual trigger
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+      
+      - name: Run tracker
+        run: go run ./cmd/tracker
+      
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet data/bookstores.json README.md 2>/dev/null; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check.outputs.changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/bookstores.json README.md
+          git commit -m "chore: update bookstores data $(date -u +%Y-%m-%d)"
+          git push
