@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-tracker
+/tracker
 
 # Test binary
 *.test
@@ -32,3 +32,6 @@ Thumbs.db
 
 # Documentation directory
 docs/
+
+# Claude
+.claude
