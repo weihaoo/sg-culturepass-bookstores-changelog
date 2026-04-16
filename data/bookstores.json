@@ -1,27 +1,11 @@
 [
   {
-    "id": "bgb180231",
-    "name": "Basheer Graphic Books",
-    "address": "Blk 231 Bain Street #04-19",
-    "postalCode": "180231",
-    "latitude": 1.29681525928856,
-    "longitude": 103.853619482206
-  },
-  {
     "id": "bb089521",
     "name": "Book Bar",
     "address": "57 Duxton Road",
     "postalCode": "089521",
     "latitude": 1.278019849521343,
     "longitude": 103.8432475324774
-  },
-  {
-    "id": "bp180231",
-    "name": "Book Point Pte Ltd",
-    "address": "Blk 231 Bain Street #02-69",
-    "postalCode": "180231",
-    "latitude": 1.29681525928856,
-    "longitude": 103.853619482206
   },
   {
     "id": "cbr427623",
@@ -56,6 +40,14 @@
     "longitude": 103.85945513
   },
   {
+    "id": "tcz389835",
+    "name": "TCZ Studio",
+    "address": "623 Aljunied Rd, Aljunied Industrial Complex, #03-04B",
+    "postalCode": "389835",
+    "latitude": 1.32490843090547,
+    "longitude": 103.879384055577
+  },
+  {
     "id": "tzb238880",
     "name": "The Zall Bookstore",
     "address": "501 Orchard Road, Wheelock Place, #02-18",
@@ -78,30 +70,6 @@
     "postalCode": "199474",
     "latitude": 1.301571915734163,
     "longitude": 103.8594551299997
-  },
-  {
-    "id": "myy180231a",
-    "name": "Maha Yu Yi Bookstore 友谊书斋",
-    "address": "Blk 231 Bain Street, #03-07, Bras Basah Complex",
-    "postalCode": "180231",
-    "latitude": 1.296815259288559,
-    "longitude": 103.8536194822054
-  },
-  {
-    "id": "myy180231b",
-    "name": "Maha Yu Yi Story House 友谊故事屋",
-    "address": "Blk 231 Bain Street, #03-11, Bras Basah Complex",
-    "postalCode": "180231",
-    "latitude": 1.296815259288559,
-    "longitude": 103.8536194822054
-  },
-  {
-    "id": "myy180231c",
-    "name": "Maha Yu Yi Culture \u0026 Event Hall 友谊活动中心",
-    "address": "Blk 231 Bain Street, #02-15, Bras Basah Complex",
-    "postalCode": "180231",
-    "latitude": 1.296815259288559,
-    "longitude": 103.8536194822054
   },
   {
     "id": "pb467360",
@@ -358,5 +326,29 @@
     "postalCode": "238872",
     "latitude": 1.30224168528687,
     "longitude": 103.8351819122969
+  },
+  {
+    "id": "myy180231a",
+    "name": "Maha Yu Yi Bookstore 友谊书斋",
+    "address": "Blk 231 Bain Street, #03-07, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822054
+  },
+  {
+    "id": "myy180231b",
+    "name": "Maha Yu Yi Story House 友谊故事屋",
+    "address": "Blk 231 Bain Street, #03-11, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822054
+  },
+  {
+    "id": "myy180231c",
+    "name": "Maha Yu Yi Culture \u0026 Event Hall 友谊活动中心",
+    "address": "Blk 231 Bain Street, #02-15, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822054
   }
 ]

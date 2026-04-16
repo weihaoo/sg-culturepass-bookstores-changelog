@@ -6,17 +6,13 @@ This repository automatically tracks changes to bookstore locations participatin
 
 <!-- CHANGELOG_START -->
 <details open>
-<summary><strong>2026-04-15</strong> (Total locations: 40 → 45)</summary>
+<summary><strong>2026-04-16</strong> (Total locations: 45 → 44)</summary>
 
-<ul><li><details><summary>Added (5)</summary>
+<ul><li><details><summary>Added (1)</summary>
 
 | Name | Address | Postal Code |
 |------|---------|-------------|
-| Basheer Graphic Books | Blk 231 Bain Street #04-19 | 180231 |
-| Book Point Pte Ltd | Blk 231 Bain Street #02-69 | 180231 |
-| Littered with Books | 20 Duxton Road | 089486 |
-| Nurul Anwar Bookstore | 58 Bussorah Street, Level 2 | 199474 |
-| The Zall Bookstore | 501 Orchard Road, Wheelock Place, #02-18 | 238880 |
+| TCZ Studio | 623 Aljunied Rd, Aljunied Industrial Complex, #03-04B | 389835 |
 
 </details></li></ul>
 
