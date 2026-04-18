@@ -6,13 +6,13 @@ This repository automatically tracks changes to bookstore locations participatin
 
 <!-- CHANGELOG_START -->
 <details open>
-<summary><strong>2026-04-16</strong> (Total locations: 45 → 44)</summary>
+<summary><strong>2026-04-18</strong> (Total locations: 44 → 44)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
 
 | Name | Address | Postal Code |
 |------|---------|-------------|
-| TCZ Studio | 623 Aljunied Rd, Aljunied Industrial Complex, #03-04B | 389835 |
+| Basheer Graphic Books | Blk 231 Bain Street #04-19 | 180231 |
 
 </details></li></ul>
 
