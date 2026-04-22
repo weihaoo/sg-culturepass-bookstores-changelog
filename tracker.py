@@ -26,6 +26,8 @@ README_FILE = "README.md"
 REQUEST_TIMEOUT = 30
 GEOCODE_TIMEOUT = 10
 RATE_LIMIT_DELAY = 0.1
+NTFY_TOPIC = os.getenv("NTFY_TOPIC")
+NTFY_URL = os.getenv("NTFY_URL", "https://ntfy.sh")
 
 CHANGELOG_START = "<!-- CHANGELOG_START -->"
 CHANGELOG_END = "<!-- CHANGELOG_END -->"
@@ -153,6 +155,22 @@ def geocode_locations(locations: list[dict], label: str = "") -> None:
         except (TypeError, ValueError, KeyError) as e:
             log.warning("  Invalid geocode response for %s (%s): %s", name, postal, e)
 
+
+def notify(message: str, title: str = "CulturePass Tracker") -> None:
+    if not NTFY_TOPIC:
+        return
+    try:
+        resp = requests.post(
+            f"{NTFY_URL}/{NTFY_TOPIC}",
+            data=message.encode("utf-8"),
+            headers={"Title": title, "Content-Type": "text/plain"},
+            timeout=10,
+        )
+        resp.raise_for_status()
+        log.info("  Notification sent: %s", message)
+    except requests.RequestException as e:
+        log.warning("  Failed to send notification: %s", e)
+
 def merge(old: list[dict], new: list[dict], diff_result: dict) -> list[dict]:
     old_map = {clean(l["id"]): l for l in old}
     added_map = {clean(l["id"]): l for l in diff_result["added"]}
@@ -276,6 +294,7 @@ def main() -> None:
 
     update_readme(format_entry(diff_result, len(old_locations), len(new_locations)))
     save(DATA_FILE, merged)
+    notify(f"+{len(diff_result['added'])} added, ~{len(diff_result['changed'])} changed", title=f"CulturePass Update {datetime.now().strftime('%Y-%m-%d')}")
     log.info("Done.")
 
 

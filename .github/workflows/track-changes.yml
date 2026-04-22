@@ -28,6 +28,7 @@ jobs:
         env:
           DEFAULT_API_URL: ${{ secrets.DEFAULT_API_URL }}
           ONE_MAP_SEARCH_URL: ${{ secrets.ONE_MAP_SEARCH_URL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python tracker.py
 
       - name: Check for changes
