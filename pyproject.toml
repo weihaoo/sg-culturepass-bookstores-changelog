@@ -1,0 +1,17 @@
+[project]
+name = "sg-culturepass-bookstores-changelog-python"
+version = "0.1.0"
+description = "Tracks and logs changes to Singapore CulturePass bookstore locations."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "requests>=2.31",
+  "python-dotenv>=1.0",
+]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["tracker"]
