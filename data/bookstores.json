@@ -1,0 +1,354 @@
+[
+  {
+    "id": "bgb180231",
+    "name": "Basheer Graphic Books",
+    "address": "Blk 231 Bain Street #04-19",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822053
+  },
+  {
+    "id": "bb089521",
+    "name": "Book Bar",
+    "address": "57 Duxton Road",
+    "postalCode": "089521",
+    "latitude": 1.278019849521343,
+    "longitude": 103.8432475324774
+  },
+  {
+    "id": "cbr427623",
+    "name": "City Book Room",
+    "address": "387 Joo Chiat Road, #03-02, The Modules",
+    "postalCode": "427623",
+    "latitude": 1.307960491856837,
+    "longitude": 103.9038302796507
+  },
+  {
+    "id": "lwbs608586",
+    "name": "Lingzi Warehouse Books Sale",
+    "address": "No. 48 Toh Guan Road East, #06-106",
+    "postalCode": "608586",
+    "latitude": 1.336773732684732,
+    "longitude": 103.7543621941096
+  },
+  {
+    "id": "lwb'089486",
+    "name": "Littered with Books",
+    "address": "20 Duxton Road",
+    "postalCode": "089486",
+    "latitude": 1.279528799074589,
+    "longitude": 103.8434460625156
+  },
+  {
+    "id": "nab199474",
+    "name": "Nurul Anwar Bookstore",
+    "address": "58 Bussorah Street, Level 2",
+    "postalCode": "199474",
+    "latitude": 1.301571915734163,
+    "longitude": 103.8594551299997
+  },
+  {
+    "id": "tzb238880",
+    "name": "The Zall Bookstore",
+    "address": "501 Orchard Road, Wheelock Place, #02-18",
+    "postalCode": "238880",
+    "latitude": 1.304676287302523,
+    "longitude": 103.8306420275763
+  },
+  {
+    "id": "ubc180231",
+    "name": "Union Book Co",
+    "address": "Blk 231 Bain Street, #03-01, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822053
+  },
+  {
+    "id": "wb199474",
+    "name": "Wardah Books",
+    "address": "58 Bussorah Street",
+    "postalCode": "199474",
+    "latitude": 1.301571915734163,
+    "longitude": 103.8594551299997
+  },
+  {
+    "id": "pb467360",
+    "name": "POPULAR Bookstore - Bedok Mall",
+    "address": "311 New Upper Changi Road, B2-02/35/36, Bedok Mall",
+    "postalCode": "467360",
+    "latitude": 1.324736328121042,
+    "longitude": 103.9292562597261
+  },
+  {
+    "id": "pb180231",
+    "name": "POPULAR Bookstore - Bras Basah Complex (POP@CENTRAL)",
+    "address": "Blk 231 Bain Street, #04-23/33, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822053
+  },
+  {
+    "id": "pb677743",
+    "name": "POPULAR Bookstore - Bukit Panjang Plaza",
+    "address": "No. 1 Jelebu Road, #03-01, Bukit Panjang Plaza",
+    "postalCode": "677743",
+    "latitude": 1.379920451762434,
+    "longitude": 103.764357180314
+  },
+  {
+    "id": "pb738099",
+    "name": "POPULAR Bookstore - Causeway Point",
+    "address": "No. 1 Woodlands Square #03-29/30, Causeway Point",
+    "postalCode": "738099",
+    "latitude": 1.436070065080311,
+    "longitude": 103.7859815242531
+  },
+  {
+    "id": "pb208539",
+    "name": "POPULAR Bookstore - City Square Mall",
+    "address": "180 Kitchener Road, #02-23/24, City Square Mall",
+    "postalCode": "208539",
+    "latitude": 1.311421031076843,
+    "longitude": 103.8566240199911
+  },
+  {
+    "id": "pb545078",
+    "name": "POPULAR Bookstore - Compass One Mall",
+    "address": "1 Sengkang Square, #03-11, Compass One Mall",
+    "postalCode": "545078",
+    "latitude": 1.39205314156707,
+    "longitude": 103.8950705438402
+  },
+  {
+    "id": "pb530205",
+    "name": "POPULAR Bookstore - Heartland Mall",
+    "address": "Blk 205 Hougang Street 21, #03-30, Heartland Mall Kovan",
+    "postalCode": "530205",
+    "latitude": 1.359541773255625,
+    "longitude": 103.8851673727259
+  },
+  {
+    "id": "pb579837",
+    "name": "POPULAR Bookstore - Junction 8 Shopping Centre",
+    "address": "9 Bishan Place, #04-02, Junction 8 Shopping Centre",
+    "postalCode": "579837",
+    "latitude": 1.350481253450499,
+    "longitude": 103.848760473211
+  },
+  {
+    "id": "pb648886",
+    "name": "POPULAR Bookstore - Jurong Point Shopping Centre",
+    "address": "1 Jurong West Central 2, #B1-41, Jurong Point Shopping Centre",
+    "postalCode": "648886",
+    "latitude": 1.339452716614461,
+    "longitude": 103.7066850128896
+  },
+  {
+    "id": "pb689812",
+    "name": "POPULAR Bookstore - Lot One Shopping Mall",
+    "address": "21 Choa Chu Kang Ave 4, #03-13, Lot 1 Shoppers' Mall",
+    "postalCode": "689812",
+    "latitude": 1.38497459672379,
+    "longitude": 103.7450117663881
+  },
+  {
+    "id": "pb556083",
+    "name": "POPULAR Bookstore - NEX Mall",
+    "address": "23 Serangoon Central, #04-59/60, NEX Mall",
+    "postalCode": "556083",
+    "latitude": 1.350769352578452,
+    "longitude": 103.8722961438613
+  },
+  {
+    "id": "pb769098",
+    "name": "POPULAR Bookstore - Northpoint City",
+    "address": "930 Yishun Avenue 2, #03-12, Northpoint City (North Wing)",
+    "postalCode": "769098",
+    "latitude": 1.429698486262892,
+    "longitude": 103.8357764914675
+  },
+  {
+    "id": "pb820681",
+    "name": "POPULAR Bookstore - Oasis Terraces",
+    "address": "681 Punggol Drive, #03-15/16",
+    "postalCode": "820681",
+    "latitude": 1.402780157256932,
+    "longitude": 103.9132151013428
+  },
+  {
+    "id": "pb409057",
+    "name": "POPULAR Bookstore - Paya Lebar Quarter",
+    "address": "10 Paya Lebar Road, #03-01/02/03, Paya Lebar Quarter",
+    "postalCode": "409057",
+    "latitude": 1.317708868989965,
+    "longitude": 103.8934146635971
+  },
+  {
+    "id": "pb529510",
+    "name": "POPULAR Bookstore - Tampines Mall",
+    "address": "4 Tampines Central 5, #03-17, Tampines Mall",
+    "postalCode": "529510",
+    "latitude": 1.352527372785196,
+    "longitude": 103.9446987510717
+  },
+  {
+    "id": "pb129588",
+    "name": "POPULAR Bookstore - The Clementi Mall",
+    "address": "3155 Commonwealth Avenue West, #05-01 to 05, The Clementi Mall",
+    "postalCode": "129588",
+    "latitude": 1.314966522855597,
+    "longitude": 103.7642704675928
+  },
+  {
+    "id": "pb797653",
+    "name": "POPULAR Bookstore - The Seletar Mall",
+    "address": "33 Sengkang West Ave, #03-06/07/08/09, The Seletar Mall",
+    "postalCode": "797653",
+    "latitude": 1.391470153746278,
+    "longitude": 103.876125507257
+  },
+  {
+    "id": "pb367803",
+    "name": "POPULAR Bookstore - The Woodleigh Mall",
+    "address": "11 Bidadari Park Drive, #B1-25, The Woodleigh Mall",
+    "postalCode": "367803",
+    "latitude": 1.33873066388193,
+    "longitude": 103.8716700081919
+  },
+  {
+    "id": "pb168732",
+    "name": "POPULAR Bookstore - Tiong Bahru Plaza",
+    "address": "302 Tiong Bahru Road, #02-115A, Tiong Bahru Plaza",
+    "postalCode": "168732",
+    "latitude": 1.286458894728254,
+    "longitude": 103.8270152561934
+  },
+  {
+    "id": "pb310530",
+    "name": "POPULAR Bookstore - Toa Payoh Hub",
+    "address": "530 Toa Payoh Lorong 6, #02-01",
+    "postalCode": "310530",
+    "latitude": 1.332168105520964,
+    "longitude": 103.8470864330412
+  },
+  {
+    "id": "pb307591",
+    "name": "POPULAR Bookstore - United Square",
+    "address": "101 Thomson Road, #02-22/25, United Square",
+    "postalCode": "307591",
+    "latitude": 1.317194509885588,
+    "longitude": 103.8436114430376
+  },
+  {
+    "id": "pb098585",
+    "name": "POPULAR Bookstore - VivoCity",
+    "address": "1 Harbourfront Walk, #B1-16/17, VivoCity",
+    "postalCode": "098585",
+    "latitude": 1.264293167839738,
+    "longitude": 103.8223046936493
+  },
+  {
+    "id": "pb828761",
+    "name": "POPULAR Bookstore - Waterway Point",
+    "address": "83 Punggol Central, #B1-09, Waterway Point",
+    "postalCode": "828761",
+    "latitude": 1.406484621320066,
+    "longitude": 103.9021056807848
+  },
+  {
+    "id": "pb658713",
+    "name": "POPULAR Bookstore - West Mall",
+    "address": "1 Bukit Batok Central Link, #04-02, West Mall",
+    "postalCode": "658713",
+    "latitude": 1.350021075943163,
+    "longitude": 103.7492164938305
+  },
+  {
+    "id": "pb608532",
+    "name": "POPULAR Bookstore - Westgate",
+    "address": "3 Gateway Drive, #04-26/27",
+    "postalCode": "608532",
+    "latitude": 1.334157675568678,
+    "longitude": 103.7427664844237
+  },
+  {
+    "id": "pb518457",
+    "name": "POPULAR Bookstore - White Sands Mall",
+    "address": "1 Pasir Ris Central Street 3, #04-12/13, White Sands Mall",
+    "postalCode": "518457",
+    "latitude": 1.372449816635281,
+    "longitude": 103.9497156947368
+  },
+  {
+    "id": "witb238884",
+    "name": "Woods in the Books - Books Ahoy!",
+    "address": "583 Orchard Road, #02-03, Forum The Shopping Mall,",
+    "postalCode": "238884",
+    "latitude": 1.306097521645643,
+    "longitude": 103.8286785560409
+  },
+  {
+    "id": "witb428905",
+    "name": "Woods in the Books Katong",
+    "address": "206 East Coast Road",
+    "postalCode": "428905",
+    "latitude": 1.307174326323496,
+    "longitude": 103.90712865948
+  },
+  {
+    "id": "witb239351",
+    "name": "Woods in the Books New Bahru",
+    "address": "46 Kim Yam Road, #03-06, New Bahru",
+    "postalCode": "239351",
+    "latitude": 1.292187061924288,
+    "longitude": 103.8392883617146
+  },
+  {
+    "id": "bk188021",
+    "name": "Books Kinokuniya - Bugis Junction Store",
+    "address": "200 Victoria Street, #03-10, Bugis Junction",
+    "postalCode": "188021",
+    "latitude": 1.299112874758746,
+    "longitude": 103.8554111737572
+  },
+  {
+    "id": "bk179103",
+    "name": "Books Kinokuniya - Raffles City Store",
+    "address": "252 North Bridge Road, #03-22/23, Raffles City Shopping Centre",
+    "postalCode": "179103",
+    "latitude": 1.294076444830724,
+    "longitude": 103.8533318270875
+  },
+  {
+    "id": "bk238872",
+    "name": "Books Kinokuniya - Singapore Main Store",
+    "address": "391 Orchard Road, #04-20/20A/20B/20C, Takashimaya Shopping Centre, Ngee Ann City",
+    "postalCode": "238872",
+    "latitude": 1.30224168528687,
+    "longitude": 103.8351819122968
+  },
+  {
+    "id": "myy180231a",
+    "name": "Maha Yu Yi Bookstore 友谊书斋",
+    "address": "Blk 231 Bain Street, #03-07, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822053
+  },
+  {
+    "id": "myy180231b",
+    "name": "Maha Yu Yi Story House 友谊故事屋",
+    "address": "Blk 231 Bain Street, #03-11, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822053
+  },
+  {
+    "id": "myy180231c",
+    "name": "Maha Yu Yi Culture & Event Hall 友谊活动中心",
+    "address": "Blk 231 Bain Street, #02-15, Bras Basah Complex",
+    "postalCode": "180231",
+    "latitude": 1.296815259288559,
+    "longitude": 103.8536194822053
+  }
+]
