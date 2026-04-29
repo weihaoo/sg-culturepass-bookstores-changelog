@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-04-29</strong> (Total locations: 44 -> 45)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| Book Point Pte Ltd | Blk 231 Bain Street #02-69 | 180231 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-04-23</strong> (Total locations: 0 -> 44)</summary>
 
 <ul><li><details><summary>Added (44)</summary>
@@ -60,5 +73,4 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 </details></li></ul>
 
 </details>
-
 <!-- CHANGELOG_END -->
