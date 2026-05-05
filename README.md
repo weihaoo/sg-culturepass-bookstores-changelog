@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-05-05</strong> (Total locations: 45 -> 46)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| TCZ Studio | 623 Aljunied Rd, Aljunied Industrial Complex, #03-04B | 389835 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-04-29</strong> (Total locations: 44 -> 45)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
