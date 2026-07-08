@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-07-08</strong> (Total locations: 46 -> 47)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| ah-Ha! Bookstore by Child Ed | 15-6 Jalan Riang | 358987 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-05-05</strong> (Total locations: 45 -> 46)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
