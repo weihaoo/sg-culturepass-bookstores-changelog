@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-07-29</strong> (Total locations: 47 -> 48)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| BookXcess at OCBC Wisma Atria | 435 Orchard Road, #04-01 Wisma Atria | 238877 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-07-08</strong> (Total locations: 46 -> 47)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
