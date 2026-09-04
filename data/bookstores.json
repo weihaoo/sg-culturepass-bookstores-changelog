@@ -1,5 +1,13 @@
 [
   {
+    "id": "abbce358987",
+    "name": "ah-Ha! Bookstore by Child Ed",
+    "address": "15-6 Jalan Riang",
+    "postalCode": "358987",
+    "latitude": 1.347475867453,
+    "longitude": 103.867435560012
+  },
+  {
     "id": "bgb180231",
     "name": "Basheer Graphic Books",
     "address": "Blk 231 Bain Street #04-19",
@@ -94,14 +102,6 @@
     "longitude": 103.8594551299997
   },
   {
-    "id": "abbce358987",
-    "name": "ah-Ha! Bookstore by Child Ed",
-    "address": "15-6 Jalan Riang",
-    "postalCode": "358987",
-    "latitude": 1.347475867453,
-    "longitude": 103.867435560012
-  },
-  {
     "id": "pb467360",
     "name": "POPULAR Bookstore - Bedok Mall",
     "address": "311 New Upper Changi Road, B2-02/35/36, Bedok Mall",
@@ -156,6 +156,14 @@
     "postalCode": "530205",
     "latitude": 1.359541773255625,
     "longitude": 103.8851673727259
+  },
+  {
+    "id": "pb538766",
+    "name": "POPULAR Bookstore - Hougang Mall",
+    "address": "90 Hougang Ave 10, #03-09 Hougang Mall",
+    "postalCode": "538766",
+    "latitude": 1.372491186358026,
+    "longitude": 103.8937740666245
   },
   {
     "id": "pb579837",
@@ -268,14 +276,6 @@
     "postalCode": "307591",
     "latitude": 1.317194509885588,
     "longitude": 103.8436114430376
-  },
-  {
-    "id": "pb098585",
-    "name": "POPULAR Bookstore - VivoCity",
-    "address": "1 Harbourfront Walk, #B1-16/17, VivoCity",
-    "postalCode": "098585",
-    "latitude": 1.264293167839738,
-    "longitude": 103.8223046936493
   },
   {
     "id": "pb828761",

@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-09-04</strong> (Total locations: 48 -> 48)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| POPULAR Bookstore - Hougang Mall | 90 Hougang Ave 10, #03-09 Hougang Mall | 538766 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-07-29</strong> (Total locations: 47 -> 48)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
