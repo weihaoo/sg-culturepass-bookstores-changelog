@@ -70,6 +70,14 @@
     "longitude": 103.8594551299997
   },
   {
+    "id": "ob428505",
+    "name": "Owl Books",
+    "address": "2 Fowlie Rd, #01-07 Sycamore Tree",
+    "postalCode": "428505",
+    "latitude": 1.307561081016846,
+    "longitude": 103.9034796413063
+  },
+  {
     "id": "tcz389835",
     "name": "TCZ Studio",
     "address": "623 Aljunied Rd, Aljunied Industrial Complex, #03-04B",
@@ -172,14 +180,6 @@
     "postalCode": "579837",
     "latitude": 1.350481253450499,
     "longitude": 103.848760473211
-  },
-  {
-    "id": "pb648886",
-    "name": "POPULAR Bookstore - Jurong Point Shopping Centre",
-    "address": "1 Jurong West Central 2, #B1-41, Jurong Point Shopping Centre",
-    "postalCode": "648886",
-    "latitude": 1.339452716614461,
-    "longitude": 103.7066850128896
   },
   {
     "id": "pb689812",

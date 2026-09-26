@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-09-26</strong> (Total locations: 48 -> 48)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| Owl Books | 2 Fowlie Rd, #01-07 Sycamore Tree | 428505 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-09-04</strong> (Total locations: 48 -> 48)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
