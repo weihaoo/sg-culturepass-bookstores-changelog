@@ -6,6 +6,19 @@ Tracks changes to bookstore locations participating in Singapore CulturePass.
 
 <!-- CHANGELOG_START -->
 <details open>
+<summary><strong>2026-09-29</strong> (Total locations: 48 -> 49)</summary>
+
+<ul><li><details><summary>Added (1)</summary>
+
+| Name | Address | Postal Code |
+|------|---------|-------------|
+| Grassroots Book Room | 25 Bukit Pasoh Road | 089839 |
+
+</details></li></ul>
+
+</details>
+
+<details open>
 <summary><strong>2026-09-26</strong> (Total locations: 48 -> 48)</summary>
 
 <ul><li><details><summary>Added (1)</summary>
